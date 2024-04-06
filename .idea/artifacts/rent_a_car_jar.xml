@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rent_a_car:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rent_a_car_jar</output-path>
+    <root id="archive" name="rent_a_car.jar">
+      <element id="module-output" name="rent_a_car" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/postgresql-42.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
